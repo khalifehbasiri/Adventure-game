@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ A\ beamer\ is\ a\ device\ that\ can\ be\ charged\ and\ fired.\ When\ you\ charge\r\n\ the\ beamer,\ it\ memorizes\ the\ current\ room.\ When\ you\ fire\ the\ beamer,\ it\ transports\ you\r\n\ immediately\ back\ to\ the\ room\ it\ was\ charged\ in.\r\n\r\n\ @author\ khalifeh\ basiri\ 101195770\r\n\ @version\ March\ 18,\ 2022\r\n
+comment1.params=
+comment1.target=Beamer()
+comment1.text=\r\n\ Create\ a\ new\ beamer\ item\ that\ can\ be\ charged\ and\ fired.\r\n
+comment2.params=
+comment2.target=void\ charge()
+comment2.text=\r\n\ sets\ beamer\ to\ charge\ mode.\r\n
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\r\n\ sets\ beamer\ to\ fire\ mode.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getState()
+comment4.text=\r\n\ Returns\ the\ state\ of\ the\ beamer.\r\n\ \r\n\ @return\ String\ -\ Returns\ the\ state\ of\ the\ beamer\r\n
+numComments=5

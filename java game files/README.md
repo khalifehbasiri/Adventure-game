@@ -1,4 +1,4 @@
-Project: Adventure game /n
+Project: Adventure game 
 Authors: khalifeh Basiri
 
 Description

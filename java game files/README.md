@@ -1,4 +1,4 @@
-Project: Adventure game 
+Project: Adventure game <br/>
 Authors: khalifeh Basiri
 
 Description
@@ -29,7 +29,7 @@ Usage
 Interactive ui usage:
 
 - Typing “help” will give the user a list of commands
-- Typing “go” + "a direction" will move the user to a room in the specified direction
+- Typing “go” + "a direction" will move the user to a room in the specified direction <br/>
 (If the player is in a TransporterRoom, typing go will transport the player to a random room)
 - Typing “quit” will quit the program
 - Typing “look” will return a description of the current room
